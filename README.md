@@ -9,9 +9,8 @@ Oh and also, even if u will sell him something, dont go first... I have trusted 
 When I was asking him about it, he said on his MOM that he will pay me "today" (proof on screenshots). 
 And yes, I've spent 10 minutes of my life writing this, only because this guy is a retard, and I dont want anyone to fall for his words. Keep yall safe ☺️
 
-U need to update his src and u can swap the menu to the one here ( this is the same src he has but less features cuz this is the old version, but besides that, it is 1:1 as his(mine) )
 Because I knew that he is an idiot and he will sahre all the stuff, I didnt gave him my real driver. I took skar's ioctl, swapped read/write/cr3 to the most default MmCopyMemory, mmcpy and pml4. 
-Changed the struct a little bit, deleted the SymbolicLink and used NtCreateFile for the find as it doesnt require SymbolicLink. If u really want the driver, I can remake it and post it here, u will last some decent time on it.
+Changed the struct a little bit, deleted the SymbolicLink and used NtCreateFile for the find as it doesnt require SymbolicLink.
 
 ![colorswapfor10dolla](https://github.com/user-attachments/assets/19849951-71d1-486a-8708-02381ddd7b8d)
 ![image](https://github.com/user-attachments/assets/58700242-5809-46ec-90e4-f096ab7a54a3)
